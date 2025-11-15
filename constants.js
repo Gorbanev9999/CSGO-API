@@ -29,16 +29,11 @@ export const LANGUAGES_URL = [
         folder: "zh-CN",
         url: getLanguageUrl("schinese"),
     },
-    // {
-    //     language: "portuguese (Brazil)",
-    //     folder: "pt-BR",
-    //     url: getLanguageUrl("brazilian"),
-    // },
-     {
-     language: "russian",
-     folder: "ru",
-     url: getLanguageUrl("russian"),
-     },
+    {
+        language: "russian",
+        folder: "ru",
+        url: getLanguageUrl("russian"),
+    },
     // {
     //     language: "spanish",
     //     folder: "es-ES",
