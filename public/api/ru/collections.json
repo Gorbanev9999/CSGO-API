@@ -14232,7 +14232,7 @@
    },
    {
     "id": "skin-7749a115c5c1",
-    "name": "MP7 | Sunbaked",
+    "name": "MP7 | Жар солнца",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -16066,7 +16066,7 @@
   "contains": [
    {
     "id": "skin-526e890d5739",
-    "name": "M249 | Bock Blocks",
+    "name": "M249 | Птицеблоки",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16077,7 +16077,7 @@
    },
    {
     "id": "skin-ca4c3950bda2",
-    "name": "M4A4 | Zubastick",
+    "name": "M4A4 | Зубастик",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16088,7 +16088,7 @@
    },
    {
     "id": "skin-40743fbc40a8",
-    "name": "UMP-45 | Fragment",
+    "name": "UMP-45 | Фрагмент",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16099,7 +16099,7 @@
    },
    {
     "id": "skin-39ceb900b437",
-    "name": "Обрез | Fusion",
+    "name": "Обрез | Слияние",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16110,7 +16110,7 @@
    },
    {
     "id": "skin-19e064301c88",
-    "name": "Five-SeveN | Dark Polymer",
+    "name": "Five-SeveN | Тёмный полимер",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16121,7 +16121,7 @@
    },
    {
     "id": "skin-12f8829b002d",
-    "name": "USP-S | Silent Shot",
+    "name": "USP-S | Бесшумный выстрел",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -16143,7 +16143,7 @@
    },
    {
     "id": "skin-2bcac1c42296",
-    "name": "Desert Eagle | Firebreathing",
+    "name": "Desert Eagle | Огненное дыхание",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16154,7 +16154,7 @@
    },
    {
     "id": "skin-62ecfa87b86d",
-    "name": "M4A1-S | Electrum",
+    "name": "M4A1-S | Электрум",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16165,7 +16165,7 @@
    },
    {
     "id": "skin-55d44f236355",
-    "name": "MP7 | Amberline",
+    "name": "MP7 | Янтарная линия",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16176,7 +16176,7 @@
    },
    {
     "id": "skin-8571b4f29f98",
-    "name": "Автомат «Галиль» | Galigator",
+    "name": "Автомат «Галиль» | Галлигатор",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16187,7 +16187,7 @@
    },
    {
     "id": "skin-36e373c7de1c",
-    "name": "MP9 | Urban Sovereign",
+    "name": "MP9 | Городской суверен",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16198,7 +16198,7 @@
    },
    {
     "id": "skin-f64cdaac0b90",
-    "name": "AK-47 | Crane Flight",
+    "name": "AK-47 | Полёт журавля",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -16209,7 +16209,7 @@
    },
    {
     "id": "skin-2f5828f37817",
-    "name": "P250 | Kintsugi",
+    "name": "P250 | Кинцуги",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -16220,7 +16220,7 @@
    },
    {
     "id": "skin-612576d81a84",
-    "name": "P90 | Deathgaze",
+    "name": "P90 | Взор смерти",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -16231,7 +16231,7 @@
    },
    {
     "id": "skin-66197377b028",
-    "name": "AWP | Queen's Gambit",
+    "name": "AWP | Гамбит королевы",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Тайное",
@@ -16242,7 +16242,7 @@
    },
    {
     "id": "skin-ec359b168d17",
-    "name": "Glock-18 | Fully Tuned",
+    "name": "Glock-18 | Полный раскрас",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Тайное",
